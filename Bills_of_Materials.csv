@@ -4,16 +4,18 @@
 "EVA´s de múltiplas cores",1
 "Esponjas",1
 "Tintas guache de múltiplas cores",1
-"Clipes de escritório",1
+"Arame", 1
 "Massa biscuit",1
 "Cola de isopor",1
 "Canudos biodegradáveis grossos",1
-"LEDs Vermelhos",2
-"LEDs Amarelos",2
-"LEDs Verdes",2
-"Botões",2
-"Jumpers para conexão de eletrônicos à placa",1
 "FPGA ep2c35f672c6",1
-"Resistores de 220 Ohm",múltiplos
-"Resistores de 1k Ohm",2
-"Transistores bc548b",múltiplos
+"Fonte de Bancada", 1
+"Resistores de 220 Ohm",10
+"Resistores de 1k Ohm",10
+"Resistores de 10k Ohm", 4
+"Transistores bc548b",10
+"LEDs Vermelhos",4
+"LEDs Amarelos",2
+"LEDs Verdes",4
+"Botões",2
+"Jumpers para conexão de eletrônicos à placa", 60
